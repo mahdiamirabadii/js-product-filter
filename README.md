@@ -14,4 +14,3 @@ This is a simple project built with Vanilla JavaScript to filter products based 
 - Filter products by category (Tech, Clothing, Health)
 - Filter products by exact price
 - Simple and responsive UI
-- 
